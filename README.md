@@ -1,7 +1,8 @@
 # Music-Generation-with-RNNs
 
 This project focuses on generating music using Recurrent Neural Networks (RNNs). By training RNN models on a dataset of music sequences, the model learns patterns in melodies and can generate new, unique pieces of music.
-Features
+
+# Features
 
     RNN Architecture: Implements an RNN-based model to generate music sequences.
     LSTM Cells: Uses Long Short-Term Memory (LSTM) cells to capture long-term dependencies in the music data.
